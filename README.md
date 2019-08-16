@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a finance tracker app that does loads of sick stuff like tracking finances. yay.
 
 Things you may want to cover:
 
